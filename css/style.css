@@ -42,6 +42,8 @@ div{
     margin-left: 50px;
     border-left: 10px solid #FFFFFF;
     border-bottom: 3px solid #FFFFFF;
+    border-top:none;
+    border-right:none;
 }
 .blue{
     background-color: #00f;
@@ -49,6 +51,8 @@ div{
     margin-right: 50px;
     border-right: 10px solid #FFFFFF;
     border-bottom: 3px solid #FFFFFF;
+    border-top:none;
+    border-left:none;
 }
 .yellow{
     background-color: #FFFF00;
@@ -56,7 +60,8 @@ div{
     margin-left: 50px;
     border-bottom: 3px solid #FFFFFF;
     border-left: 10px solid #FFFFFF;
-
+    border-top: none;
+    border-right: none;
 }
 .yellow h2{
     color: #000000;
@@ -71,6 +76,8 @@ div{
     margin-right: 50px;
     border-right: 10px solid #FFFFFF;
     border-bottom: 3px solid #FFFFFF;
+    border-top: none;
+    border-left: none;
 }
 
 span{
@@ -87,4 +94,5 @@ footer p{
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
+    padding-left: 0;
 }
